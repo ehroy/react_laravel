@@ -1,3 +1,3 @@
 import "../css/app.css";
 
-import "./components/Example";
+import "./components/dashboard.jsx";
